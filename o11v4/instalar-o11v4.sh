@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
-
-ZIP_URL="https://raw.githubusercontent.com/cs-plus/o11/ce491a9006716f72fe057a0c26fc259549274cf4/o11v4.zip"
+ZIP_URL="https://raw.githubusercontent.com/cs-plus/o11/25e6d385caf5c062f9c33a4aad49a64865c26aeb/o11v4/o11v4.zip"
 INSTALL_DIR="/home/o11v4"
 SERVICE_FILE="/etc/systemd/system/o11v4run.service"
 LICENSE_PORT_DEFAULT="180"
