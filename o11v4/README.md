@@ -33,7 +33,7 @@ O instalador baixa o pacote do GitHub, solicita a senha do arquivo ZIP, configur
 Baixe o instalador:
 
 ```bash
-wget -O instalar-o11v4.sh https://raw.githubusercontent.com/cs-plus/o11/main/instalar-o11v4.sh
+wget -O instalar-o11v4.sh [https://raw.githubusercontent.com/cs-plus/o11/o11v4/main/instalar-o11v4.sh](https://raw.githubusercontent.com/cs-plus/o11/main/o11v4/instalar-o11v4.sh)
 ```
 
 > Se o endereço do repositório ou da branch for diferente, ajuste a URL acima.
