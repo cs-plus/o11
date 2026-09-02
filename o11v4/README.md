@@ -263,9 +263,8 @@ cat /etc/fstab
 O pacote utilizado pelo instalador está fixado neste commit:
 
 ```text
-https://github.com/cs-plus/o11/blob/ce491a9006716f72fe057a0c26fc259549274cf4/o11v4.zip
+https://github.com/cs-plus/o11/blob/25e6d385caf5c062f9c33a4aad49a64865c26aeb/o11v4/o11v4.zip
 ```
-
 Fixar o commit evita que uma alteração futura no repositório modifique silenciosamente o pacote instalado.
 
 ## Licença
