@@ -55,7 +55,7 @@ O instalador apresentará perguntas semelhantes a estas:
 ```text
 === Instalador automático do O11v4 ===
 Senha do arquivo o11v4.zip:
-IP deste servidor [149.78.185.186]:
+IP deste servidor [149.78.185.1]:
 Porta HTTP da licença [180]:
 Porta do O11 [8484]:
 ```
